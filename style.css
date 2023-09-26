@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('./pages/fon.jpg');
+    background: url('pages/fon.jpg');
     background-size: cover;
 }
 
@@ -89,7 +89,7 @@ footer {
             text-transform: uppercase;
         }
 
-    /* Стили для блока с копирайтом */
+    /* Г‘ГІГЁГ«ГЁ Г¤Г«Гї ГЎГ«Г®ГЄГ  Г± ГЄГ®ГЇГЁГ°Г Г©ГІГ®Г¬ */
     footer .copyright {
         color: rgb(108, 117, 125);
         font-family: 'Times New Roman', Times, serif;
